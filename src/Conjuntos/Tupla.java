@@ -1,4 +1,5 @@
-/* Tupla > Sérgio Barros - Matemática Discreta/2013 */
+/* ProjetoMD (Tupla) > Sérgio Barros / Henryque Cerqueira - Matemática Discreta/2013 */
+
 package Conjuntos;
 
 public class Tupla<T> {
