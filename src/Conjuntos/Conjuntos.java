@@ -1,4 +1,4 @@
-/* ProjetoMD (Main) > Sérgio Barros / Henryque Cerqueira - Matemática Discreta/2013 */
+/* ProjetoMD (Conjuntos) > Sérgio Barros / Henryque Cerqueira - Matemática Discreta/2013 */
 
 package Conjuntos;
 
@@ -311,6 +311,7 @@ public class Conjuntos<T> {
                 index++; //se ordenado, incrementa.
             }
         }
+        //contInt = 0;
         ImprimirOrd(2); //imprime (elementosOrd) ao atingir o final da matriz (completamente ordenados)
         //return (elementosOrd); //Ao atingir o final da matriz (completamente ordenados) retorna nums.
     }
